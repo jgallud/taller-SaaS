@@ -40,7 +40,7 @@ Otras (opcionales):
 - Gestión del proyecto
 - Primeros prototipos
 
-## Funcionalidad adicional
+## Cuestiones adicionales (no menos importantes)
 
 - Despliegue
 - Base de datos como servicio
