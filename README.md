@@ -12,7 +12,8 @@ El taller es una versión comprimida de la asignatura Procesos de Ingeniería de
 
 Para aprovechar bien el contenido del taller, conviene tener conocimientos básicos de:
 - Conceptos generales de Programación Orientada a Objetos, Ingeniería del Software y UML
-- Tecnologías: HTML, CSS, Javascript, JQuery, Git.
+- Conocimientos generales de Scrum
+- Tecnologías: HTML, CSS, Javascript, JQuery, Git, HTTP.
 
 Para adquirir esos mínimo de conocimientos, se sugiere realizar estos tutoriales:
 - HTML: [W3Schools](https://www.w3schools.com/html/)
@@ -28,7 +29,22 @@ Antes de comenzar el Taller conviene tener instaladas las siguientes herramienta
 
 Otras (opcionales):
 - Editor UML: StarUML o Modelio
+- MongoDB: Base de datos no relacional
 
-## 
+## Conceptos iniciales
+
+- Javascript: el mundo asíncrono
+- Objetos y calidad: Fiabilidad (corrección y robustes) y Modularidad (reutilización y extensibilidad)
+- Elementos de una arquitectura SaaS basada en Internet
+- Estructura de carpetas de la solución
+- Gestión del proyecto
+- Primeros prototipos
+
+## Funcionalidad adicional
+
+- Despliegue
+- Base de datos como servicio
+- Gestión de correos
+- Pruebas
 
 
