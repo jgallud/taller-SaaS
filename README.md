@@ -4,9 +4,9 @@
 
 Software as a Service (SaaS) es un nuevo término para un viejo concepto. Se podría concebir como una extensión de la arquitectura cliente-servidor que se despliega en Internet.
 
-El **objetivo:** del taller es proporcionar los elementos necesarios, teóricos y prácticos, para construir una arquitectura software de una aplicación basada en servicios, es decir, cómo construir un software como servicio.
+El objetivo del taller es proporcionar los elementos necesarios, teóricos y prácticos, para construir una arquitectura software de una aplicación basada en servicios, es decir, se explica cómo construir software como servicio (o al menos, uno de los posibles modos de hacerlo).
 
-El taller es una versión comprimida de la asignatura Procesos de Ingeniería del Software (Tecnología Específica de Ingeniería del Software).
+El taller es una versión comprimida de la asignatura Procesos de Ingeniería del Software (Tecnología Específica de Ingeniería del Software del Grado de Ingeniería Informática que se imparte en la Escuela Superior de Ingeniería Informática de Albacete).
 
 ## Conocimientos previos necesarios
 
