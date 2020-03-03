@@ -16,7 +16,7 @@ Para aprovechar bien el contenido del taller, conviene tener conocimientos bási
 - Conocimientos generales de Scrum
 - Tecnologías: HTML, CSS, Javascript, JQuery, Git, HTTP.
 
-Para adquirir esos mínimo de conocimientos, se sugiere realizar estos tutoriales:
+Aquellos que necesiten refrescar o adquirir ese mínimo, pueden realizar estos tutoriales:
 - HTML: [W3Schools](https://www.w3schools.com/html/)
 - Javascript: [W3Schools](https://www.w3schools.com/js/default.asp)
 - JQuery: [JQuery](https://www.w3schools.com/jquery/default.asp)
@@ -27,6 +27,12 @@ Antes de comenzar el Taller conviene tener instaladas las siguientes herramienta
 - Un editor: Sublime Text 3 o Visual Studio Code
 - NodeJS: Instalar desde [NodeJS](https://nodejs.org/en/)
 - Línea de comandos de [Git](https://git-scm.com/downloads) 
+- Para comprobar que las herramientas están instaladas:
+    1. Abrir un terminal o command
+    2. Ejecutar node -v (se muestra la versión de NodeJS)
+    3. Ejecutar npm -v (se muestra la versión de Npm)
+    4. Ejecutar git --version (se muestra la versión de git)
+    
 
 Otras (opcionales):
 - Editor UML: StarUML o Modelio
