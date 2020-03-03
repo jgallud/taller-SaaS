@@ -25,7 +25,7 @@ Para adquirir esos mínimo de conocimientos, se sugiere realizar estos tutoriale
 Antes de comenzar el Taller conviene tener instaladas las siguientes herramientas:
 - Un editor: Sublime Text 3 o Visual Studio Code
 - NodeJS: Instalar desde [NodeJS](https://nodejs.org/en/)
-- Herramientas de escritorio de [Git](https://git-scm.com/downloads) 
+- Línea de comandos de [Git](https://git-scm.com/downloads) 
 
 Otras (opcionales):
 - Editor UML: StarUML o Modelio
