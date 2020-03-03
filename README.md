@@ -1,9 +1,9 @@
 # Taller de Construcción de Software como Servicio
-# Master Univeristario Ingeniería Informática de Albacete
+## Master Univeristario en Ingeniería Informática de Albacete
 
 ## Introducción
 
-Software as a Service (SaaS) es un nuevo término para un viejo concepto. Se podría concebir como una extensión de la arquitectura cliente-servidor que se despliega en Internet.
+Software as a Service (SaaS) es un nuevo término para un viejo concepto. Se podría decir que es una versión de la arquitectura cliente-servidor que se despliega en Internet.
 
 El objetivo del taller es proporcionar los elementos necesarios, teóricos y prácticos, para construir una arquitectura software de una aplicación basada en servicios, es decir, se explica cómo construir software como servicio (o al menos, uno de los posibles modos de hacerlo).
 
@@ -35,7 +35,7 @@ Otras (opcionales):
 ## Conceptos iniciales
 
 - Javascript: el mundo asíncrono
-- Objetos y calidad: Fiabilidad (corrección y robustes) y Modularidad (reutilización y extensibilidad)
+- Objetos y calidad: Fiabilidad (corrección y robustez) y Modularidad (reutilización y extensibilidad)
 - Elementos de una arquitectura SaaS basada en Internet
 - Estructura de carpetas de la solución
 - Gestión del proyecto
