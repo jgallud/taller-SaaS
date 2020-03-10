@@ -38,6 +38,8 @@ Otras (opcionales):
 - Editor UML: StarUML o Modelio
 - MongoDB: Base de datos no relacional
 
+- Zona de código: [Zona](https://docs.google.com/document/d/17jN8KI-nJazHFzUrsNDOezk__WGZqSH48pJWJzXIFh0/edit?usp=sharing)
+
 ## Conceptos iniciales
 
 - Javascript: el mundo asíncrono
